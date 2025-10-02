@@ -5,7 +5,8 @@
 /* Date      : 12 MAR 2023                        */
 /* Version   : V01                                */
 /**************************************************/
-/*mostaffa*/
+/*mostaffa :D*/
+/*sondosaya el2maraya <3*/
 #ifndef ADC_INTERFACE_H
 #define ADC_INTERFACE_H
 
