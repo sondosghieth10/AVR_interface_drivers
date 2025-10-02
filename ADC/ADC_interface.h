@@ -5,7 +5,7 @@
 /* Date      : 12 MAR 2023                        */
 /* Version   : V01                                */
 /**************************************************/
-
+/*mostaffa*/
 #ifndef ADC_INTERFACE_H
 #define ADC_INTERFACE_H
 
